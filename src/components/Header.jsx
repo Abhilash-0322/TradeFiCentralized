@@ -7,7 +7,7 @@ const Header = ({ walletConnected, account, connectWallet, disconnectWallet, mob
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-3">
             <div className="w-8 h-8 bg-gradient-to-r from-green-400 to-blue-500 rounded-lg"></div>
-            <h1 className="text-xl font-bold text-gray-900">DeFiAI</h1>
+            <h1 className="text-xl font-bold text-gray-900">TradeFiAI</h1>
           </div>
           <div className="hidden md:flex items-center space-x-8">
             <a href="#features" className="text-gray-600 hover:text-gray-900 transition-colors">Features</a>
