@@ -1,8 +1,8 @@
-# Project Title (DeFiAI - AI Powered Trading Platform)
+# TradeFiAI - AI Powered Trading Platform
 
 ## Introduction/Overview
 
-DeFiAI is a cutting-edge decentralized finance (DeFi) application designed to empower users with AI-driven insights and automated trading capabilities for the cryptocurrency markets. The platform integrates intelligent algorithms to analyze market conditions, manage portfolios, and execute trades with precision, aiming to maximize returns while managing risks. It offers a user-friendly interface for both seasoned traders and newcomers to navigate the complexities of DeFi.
+TradeFiAI is a cutting-edge decentralized finance (DeFi) application designed to empower users with AI-driven insights and automated trading capabilities for the cryptocurrency markets. The platform integrates intelligent algorithms to analyze market conditions, manage portfolios, and execute trades with precision, aiming to maximize returns while managing risks. It offers a user-friendly interface for both seasoned traders and newcomers to navigate the complexities of DeFi.
 
 
 ## Features
